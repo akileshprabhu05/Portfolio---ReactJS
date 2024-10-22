@@ -10,10 +10,10 @@ const Navbar = () => {
         <img className="mx-2 h-28" src="/Akile.png" alt="logo"/>
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-        <a href="https://www.linkedin.com/in/abdul-gouse-syeedy-000027277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <FaLinkedin/> </a>
-        <a href="https://github.com/Abdulgsk" target="_blank"> <FaGithub/> </a>
-        <a href="https://leetcode.com/u/Abdul_Gouse/"><SiLeetcode/></a>
-        <a href="https://www.hackerrank.com/profile/abdul29112004" target="_blank"> <FaHackerrank/> </a>
+        <a href="https://www.linkedin.com/in/akilesh-prabhu-3b4b15209/" target="_blank"> <FaLinkedin/> </a>
+        <a href="https://github.com/akileshprabhu05" target="_blank"> <FaGithub/> </a>
+        <a href="https://leetcode.com/u/akileshsakthi05/"><SiLeetcode/></a>
+        <a href="https://www.hackerrank.com/profile/akileshsakthi05" target="_blank"> <FaHackerrank/> </a>
       </div>
     </nav>
   )
